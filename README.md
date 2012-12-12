@@ -1,13 +1,18 @@
-=== WP Most Popular ===
+WP Most Popular
+===============
+
 Contributors: MattGeri
-Tags: popular, most viewed, popular posts, most viewed posts, popular posts widget, popular custom type posts, most view widget, most view posts widget
-Requires at least: 3.0
-Tested up to: 3.4.1
-Stable tag: 0.2
+
+* Tags: popular, most viewed, popular posts, most viewed posts, popular posts widget, popular custom type posts, most view widget, most view posts widget
+
+* Requires at least: 3.0
+* Tested up to: 3.4.1
+* Stable tag: 0.2
 
 WP Most Popular is a simple plugin which tracks your most popular blog posts based on views and lets you display them in your theme or blog sidebar.
 
-== Description ==
+Description
+-----------
 
 WP Most Popular was born out of frustration in finding a decent plugin which performs one simple task and that is to rank your most popular blog posts.
 
@@ -19,15 +24,17 @@ If you are a developer and integrate the plugin in to a theme, you will get a lo
 
 [Plugin homepage](http://mattgeri.com/projects/wordpress/wp-most-popular/).
 
-== Installation ==
+Installation
+------------
 
 Setting up WP Most Popular is very simple. Follow these easy steps
 
-1.	Upload the plugin to your `/wp-content/plugins/` directory
+1.  Upload the plugin to your `/wp-content/plugins/` directory
 2.	Activate the plugin in your WordPress admin
 3.	Add sidebar widget or integrate functions in to your theme
 
-== Usage ==
+Usage
+-----
 
 There are two ways in which you can use this plugin.
 
@@ -67,7 +74,8 @@ Those are the current parameters that the plugin supports. Let's look at an exam
 	echo '</ul>';
 	?>
 
-== Frequently Asked Questions ==
+Frequently Asked Questions
+--------------------------
 
 = Why are no posts displaying when I use the widget or call the function in my theme? =
 
@@ -89,7 +97,8 @@ Yes, please do so on the WordPress support forum for the plugin. I will consider
 
 Yes! The plugin is open source and I host it on [Github](https://github.com/MattGeri/WP-Most-Popular). Feel free to send me pull requests.
 
-== Changelog ==
+Changelog
+---------
 
 = 0.2 =
 * Added the ability to query multiple different post types (thanks [inc2734](https://github.com/inc2734))
